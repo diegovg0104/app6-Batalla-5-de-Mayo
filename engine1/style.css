@@ -297,8 +297,8 @@
 	top: 0;
 }/* bottom center */
 #wowslider-container1  .ws_bullets {
-	bottom:0;
-	left:0;
+	bottom: -4px;
+	left: 1px;
 	margin-right: 100px;
 }#wowslider-container1 .ws-title{
 	position: absolute;
